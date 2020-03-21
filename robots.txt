@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://roweipeiw.qef.co.nz/sitemap.xml
